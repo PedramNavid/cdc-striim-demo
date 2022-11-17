@@ -1,0 +1,16 @@
+click==8.1.3
+fake-web-events==0.2.5
+Faker==4.1.1
+mypy-extensions==0.4.3
+pathspec==0.10.2
+platformdirs==2.5.4
+psycopg==3.1.4
+psycopg-binary==3.1.4
+pyaml==20.4.0
+python-dateutil==2.8.2
+python-dotenv==0.21.0
+PyYAML==6.0
+six==1.16.0
+text-unidecode==1.3
+tomli==2.0.1
+typing_extensions==4.4.0
